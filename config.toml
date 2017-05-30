@@ -1,0 +1,43 @@
+baseurl = "https://alcohomies.com/alcoblog"
+languageCode = "en"
+title = "Alco | blog"
+theme = "hucore"
+copyright = "&copy; 2017 | Pontus Nyholm | <a href=\"https://github.com/mgjohansen/hucore.git\" target=\"_blank\">Github</a>"
+disqusShortname = "alcohomies"
+googleAnalytics = "UA-100153418-1"
+publishDir = "alcoblog"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "The alcohomies official blog"
+keywords = ["Alcohomies", "Webdev", "Shitcontent"]
+author = "Pontus Nyholm"
+sharingicons = true
+displayauthor = true
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/Miniakira"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://www.instagram.com/megaakira/"
+fa_icon = "fa-instagram"
+
+[[params.social]]
+url = "http://www.piedpiper.com/"
+fa_icon = "fa-pied-piper-pp"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
+
+[[params.socialshare]]
+url = "https://linkedin.com/in/mgjohansen"
+fa_icon = "fa-linkedin-square"
