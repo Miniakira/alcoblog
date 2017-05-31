@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>holic | blog</title>
+    <link>http://holic.io/blog/</link>
+    <description>Recent content on holic | blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 | Pontus Nyholm | &lt;a href=&#34;https://github.com/Miniakira&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 31 May 2017 21:55:31 +0200</lastBuildDate>
+    
+	<atom:link href="http://holic.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>switched domains</title>
+      <link>http://holic.io/blog/post/switched-domains/</link>
+      <pubDate>Wed, 31 May 2017 21:55:31 +0200</pubDate>
+      
+      <guid>http://holic.io/blog/post/switched-domains/</guid>
+      <description>Today I decided to get a domain for my own personal stuff and move everything &amp;ldquo;meme&amp;rdquo; to alcohomies.com. I moved everything from alcohomies to another droplet on Digital ocean I share with my friends.
+I bought the domain holic.io just to make funny subdomain names like &amp;ldquo;fidgetspinner.holic.io&amp;rdquo; but in retrospect it was harder to make up some funnier names within this template than I thought. Oh well! It&amp;rsquo;s a short neat little domain at least.</description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>http://holic.io/blog/post/first-post/</link>
+      <pubDate>Tue, 30 May 2017 18:54:12 +0200</pubDate>
+      
+      <guid>http://holic.io/blog/post/first-post/</guid>
+      <description>Hey!
+Im a 28 year old guy that recently (1 month ago) started learning web development pretty much from scratch except for html/css. While I have previous programming experience, I feel like I have a lot to learn.
+I&amp;rsquo;ve been trying out different languages and frameworks and I landed on the MERN stack as my final choice on what to learn. I really enjoy using only javascript and react was more like a flip of a coin after asking around and starting Angular vs React wars.</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://holic.io/blog/post/welcome/</link>
+      <pubDate>Tue, 30 May 2017 18:42:52 +0200</pubDate>
+      
+      <guid>http://holic.io/blog/post/welcome/</guid>
+      <description>This my first venture into the world of static site generators! and given the headaches it gave me until I found one that I liked, it might be a while until I go on another adventure.
+Hopefully this all worked and you can now read the first post on my blog!</description>
+    </item>
+    
+  </channel>
+</rss>

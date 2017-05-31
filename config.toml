@@ -1,19 +1,19 @@
-baseurl = "https://alcohomies.com/alcoblog"
+baseurl = "http://holic.io/blog"
 languageCode = "en"
-title = "Alco | blog"
+title = "holic | blog"
 theme = "hucore"
-copyright = "&copy; 2017 | Pontus Nyholm | <a href=\"https://github.com/mgjohansen/hucore.git\" target=\"_blank\">Github</a>"
+copyright = "&copy; 2017 | Pontus Nyholm | <a href=\"https://github.com/Miniakira\" target=\"_blank\">Github</a>"
 disqusShortname = "alcohomies"
 googleAnalytics = "UA-100153418-1"
-publishDir = "alcoblog"
+publishDir = "blog"
 
 [taxonomies]
 tag = "tags"
 category = "categories"
 
 [params]
-description = "The alcohomies official blog"
-keywords = ["Alcohomies", "Webdev", "Shitcontent"]
+description = "Holic.io blog"
+keywords = ["Holic", "Webdev", "Shitcontent"]
 author = "Pontus Nyholm"
 sharingicons = true
 displayauthor = true

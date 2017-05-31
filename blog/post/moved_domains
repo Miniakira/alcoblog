@@ -1,0 +1,15 @@
++++
+author = ""
+categories = ["category"]
+date = "2017-05-31T21:41:11+02:00"
+description = ""
+draft = false
+title = "moved_domains"
+
++++
+
+Today I decided to get a domain for my own personal stuff and move everything "meme" to [alcohomies.com](alcohomies.com). I moved everything from alcohomies to another droplet on Digital ocean I share with my friends.
+
+I bought the domain holic.io just to make funny subdomain names like "fidgetspinner.holic.io" but in retrospect it was harder to make up some funnier names within this template than I thought. Oh well! It's a short neat little domain at least.
+
+Im making a nice little landing page right now that I will update with react as soon as I can. I got it all planned out but i'm not 100% sure on how to use React.js yet. More to come!
